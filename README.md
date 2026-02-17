@@ -1,6 +1,7 @@
 Awesome_Chocolates_Project
 
 Project Overview📝
+
 Interactive Power BI dashboard built using a comprehensive chocolate products
 sales dataset Provides detailed visual analysis of products, regional performance,
 and overall sales metrics Combines charts, KPIs, and interactive elements for clear operational insights.
@@ -11,6 +12,7 @@ Regional Distribution: Sales breakdown across Australia, Canada, India, New Zeal
 Profitability Analysis: Product-wise profit percentages highlighting most profitable items
 Time Series Chart: Monthly sales trends from March 2023 to January 2024
 Dynamic Slicer: Filters dashboard by selected products or regions for interactive exploration
+
 Skills & Tools Used🛠️
 Power BI for dashboard development and visualization
 Data Modeling & DAX for KPIs and calculated metrics
