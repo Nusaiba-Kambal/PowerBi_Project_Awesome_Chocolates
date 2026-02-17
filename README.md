@@ -1,4 +1,4 @@
-Awesome_Chocolates_Dashboard
+Awesome_Chocolates_Project
 
 Project Overview📝
 Interactive Power BI dashboard built using a comprehensive chocolate products
