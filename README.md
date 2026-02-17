@@ -5,7 +5,9 @@ Project Overview📝
 Interactive Power BI dashboard built using a comprehensive chocolate products
 sales dataset Provides detailed visual analysis of products, regional performance,
 and overall sales metrics Combines charts, KPIs, and interactive elements for clear operational insights.
+
 Key Features📋
+
 KPI Cards: Display total Sales ($34M), Boxes (2M), Shipments (6K), and Profits ($14M) for quick overview
 Product Analysis: Bar charts showing top-selling chocolate products by revenue.
 Regional Distribution: Sales breakdown across Australia, Canada, India, New Zealand, UK, and USA
