@@ -29,4 +29,4 @@ Transform raw sales data into actionable insights
 
 See the full dashboard here : [App PowerBi link](https://app.powerbi.com/view?r=eyJrIjoiOWE4MmQwNDMtMGFmNS00YzYyLTgwNTAtZTNkMDFiYzJkNjM0IiwidCI6IjQwZDBmMTY2LWI1ZTctNDYyMC04MWI4LTQwZmFkOTI4MGZhMiJ9)
 
-!(Awesome_Chocolates_Dashboard-screenshoot.png)
+![hhhh](Awesome_Chocolates_Dashboard-screenshoot.png)
