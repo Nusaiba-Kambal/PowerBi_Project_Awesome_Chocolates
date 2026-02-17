@@ -27,6 +27,6 @@ Track regional sales performance across international markets ·
 Support data-driven decision making ·
 Transform raw sales data into actionable insights
 
-See the full dashboard here : [App PowerBi link](https://app.powerbi.com/viewr=eyJrIjoiOWE4MmQwNDMtMGFmNS00YzYyLTgwNTAtZTNkMDFiYzJkNjM0IiwidCI6IjQwZDBmMTY2LWI1ZTctNDYyMC04MWI4LTQwZmFkOTI4MGZhMiJ9)
+See the full dashboard here : [App PowerBi link](https://app.powerbi.com/view?r=eyJrIjoiOWE4MmQwNDMtMGFmNS00YzYyLTgwNTAtZTNkMDFiYzJkNjM0IiwidCI6IjQwZDBmMTY2LWI1ZTctNDYyMC04MWI4LTQwZmFkOTI4MGZhMiJ9)
 
 ![Portofilio Dashboard](Awesome_Chocolates_Dashboard-screenshoot.png)
